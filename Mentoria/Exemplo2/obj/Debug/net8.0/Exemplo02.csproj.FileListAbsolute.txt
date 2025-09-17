@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\bin\Debug\net8.0\Exemplo02.exe
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\bin\Debug\net8.0\Exemplo02.deps.json
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\bin\Debug\net8.0\Exemplo02.runtimeconfig.json
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\bin\Debug\net8.0\Exemplo02.dll
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\bin\Debug\net8.0\Exemplo02.pdb
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\obj\Debug\net8.0\Exemplo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\obj\Debug\net8.0\Exemplo02.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\obj\Debug\net8.0\Exemplo02.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\obj\Debug\net8.0\Exemplo02.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\obj\Debug\net8.0\Exemplo02.dll
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\obj\Debug\net8.0\refint\Exemplo02.dll
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\obj\Debug\net8.0\Exemplo02.pdb
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\obj\Debug\net8.0\Exemplo02.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo2\obj\Debug\net8.0\ref\Exemplo02.dll

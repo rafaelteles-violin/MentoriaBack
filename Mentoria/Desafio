@@ -1,0 +1,19 @@
+﻿Crie um programa em C# que:
+
+Pergunte ao usuário seu nome e idade.
+
+Mostre na tela uma mensagem de apresentação (similar ao exemplo da classe Pessoa).
+
+Informe se o usuário é maior de idade ou menor de idade.
+
+Use classe, métodos e condicionais no código.
+
+💡 Dica Extra:
+
+Tente separar a lógica em métodos, ex:
+
+LerDadosDoUsuario()
+
+ApresentarUsuario(Pessoa pessoa)
+
+VerificarMaioridade(Pessoa pessoa)

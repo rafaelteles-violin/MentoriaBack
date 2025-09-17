@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rafael\\Desktop\\Mentoria BackEnd\\Mentoria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62BDCB1D-7292-4422-B032-81D68643AD71}|ApiApplication\\ApiApplication.csproj|c:\\users\\rafael\\desktop\\mentoria backend\\mentoria\\apiapplication\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BDCB1D-7292-4422-B032-81D68643AD71}|ApiApplication\\ApiApplication.csproj|solutionrelative:apiapplication\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B94134B-D9F9-4E62-8AF4-9063E68F7737}|Aula03{4B94134B-D9F9-4E62-8AF4-9063E68F7737}|C:\\Users\\Rafael\\Desktop\\Mentoria BackEnd\\Mentoria\\Desafio03||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4B94134B-D9F9-4E62-8AF4-9063E68F7737}|Aula03{4B94134B-D9F9-4E62-8AF4-9063E68F7737}|solutionrelative:Desafio03||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Desafio03",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Mentoria BackEnd\\Mentoria\\Desafio03",
+              "RelativeDocumentMoniker": "Desafio03",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Mentoria BackEnd\\Mentoria\\Desafio03",
+              "RelativeToolTip": "Desafio03",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-17T18:51:53.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafael\\Desktop\\Mentoria BackEnd\\Mentoria\\ApiApplication\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ApiApplication\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Rafael\\Desktop\\Mentoria BackEnd\\Mentoria\\ApiApplication\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ApiApplication\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:29:09.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

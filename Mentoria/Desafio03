@@ -1,0 +1,23 @@
+Crie uma API em ASP.NET Core que gerencie clientes com os seguintes campos:
+
+Id (int)
+Nome (string)
+Email (string)
+DataNascimento (DateTime)
+
+---------------------
+Requisitos:
+
+Implementar os métodos:
+
+GET /api/clientes
+
+GET /api/clientes/{id}
+
+POST /api/clientes
+
+PUT /api/clientes/{id}
+
+DELETE /api/clientes/{id}
+
+Validar no POST e PUT se Nome e Email foram preenchidos.

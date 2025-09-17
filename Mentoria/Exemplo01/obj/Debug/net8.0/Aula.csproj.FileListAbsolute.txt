@@ -1,0 +1,4 @@
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo01\obj\Debug\net8.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo01\obj\Debug\net8.0\Aula.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo01\obj\Debug\net8.0\Aula.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Mentoria BackEnd\Mentoria\Exemplo01\obj\Debug\net8.0\Aula.csproj.CoreCompileInputs.cache

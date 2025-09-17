@@ -1,0 +1,9 @@
+Criar um programa que consome a PokeAPI (https://pokeapi.co)
+
+Ler o nome de um Pokémon digitado pelo usuário
+
+Buscar os dados na API usando HttpClient e async/await
+
+Exibir o nome, altura e peso do Pokémon
+
+Organizar código usando uma interface e classe de serviço (DI)
